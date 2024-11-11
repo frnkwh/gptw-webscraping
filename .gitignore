@@ -1,0 +1,19 @@
+.venv
+
+# Python files
+__pycache__/
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# tests
+tests/
+
+# log anda data files
+data/
+logs/
+*.log
+
+# dev files
+dev/
